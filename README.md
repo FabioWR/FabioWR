@@ -26,7 +26,7 @@
 <h2>📫 Como me encontrar :<br/></h2>
 💻 GitHub: <a href="https://github.com/FabioWR">Github</a><br/>
 📧 E-mail: fabioroncoletta726@gmail.com<br>
-💼 Linkedin: <a href="https://www.linkedin.com/in/fabio-roncoletta-082b62273/">Linkedin</a>
+💼 Linkedin: <a href="https://www.linkedin.com/in/fabio-roncoletta-082b62273/">Linkedin</a></br>
 
 
-"Codar é transformar lógica em algo visível e funcional."
+<h2>"Codar é transformar lógica em algo visível e funcional."</h2>
