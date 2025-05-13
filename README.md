@@ -1,7 +1,7 @@
 👋 Olá, eu sou Fabio Willian ! (@FabioWR)<br/>
 
 🚀 Sobre mim :<br/>
-🎓 Estudante de programação com foco em desenvolvimento de software<br/>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (Instituto Federal de São Paulo)<br/>
 🧠 Entusiasta de lógica de programação e estrutura de dados<br/>
 💻 Conhecimento em C, HTML5 e CSS3<br/>
 ⚙️ Curioso por entender como as coisas funcionam por trás do código<br/>
