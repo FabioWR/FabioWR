@@ -24,8 +24,8 @@
 🔹 Iniciativas voltadas para quem está começando na programação
 
 📫 Como me encontrar :
-💻 GitHub: <a href="https://github.com/FabioWR">Github</a>
-📧 E-mail: fabioroncoletta726@gmail.com
+💻 GitHub: <a href="https://github.com/FabioWR">Github</a><br/>
+📧 E-mail: fabioroncoletta726@gmail.com<br>
 💼 Linkedin: <a href="https://www.linkedin.com/in/fabio-roncoletta-082b62273/">Linkedin</a>
 
 
