@@ -29,4 +29,4 @@
 💼 Linkedin: <a href="https://www.linkedin.com/in/fabio-roncoletta-082b62273/">Linkedin</a></br>
 
 
-<h2>"Codar é transformar lógica em algo visível e funcional."</h2>
+<h2>"Quem entende o problema, já escreveu metade do código."</h2>
