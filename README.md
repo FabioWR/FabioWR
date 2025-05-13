@@ -1,29 +1,29 @@
-👋 Olá, eu sou Fabio Willian ! (@FabioWR)
+👋 Olá, eu sou Fabio Willian ! (@FabioWR)<br/>
 
-🚀 Sobre mim :
-🎓 Estudante de programação com foco em desenvolvimento de software
-🧠 Entusiasta de lógica de programação e estrutura de dados
-💻 Conhecimento em C, HTML5 e CSS3
-⚙️ Curioso por entender como as coisas funcionam por trás do código
-📚 Sempre em busca de aprender novas tecnologias e boas práticas de desenvolvimento
+🚀 Sobre mim :<br/>
+🎓 Estudante de programação com foco em desenvolvimento de software<br/>
+🧠 Entusiasta de lógica de programação e estrutura de dados<br/>
+💻 Conhecimento em C, HTML5 e CSS3<br/>
+⚙️ Curioso por entender como as coisas funcionam por trás do código<br/>
+📚 Sempre em busca de aprender novas tecnologias e boas práticas de desenvolvimento<br/>
 
-🌱 Atualmente estudando :
-🔹 Fundamentos de algoritmos e estruturas de controle
-🔹 Boas práticas com HTML e CSS
-🔹 Desenvolvimento de páginas web responsivas
+🌱 Atualmente estudando :<br/>
+🔹 Fundamentos de algoritmos e estruturas de controle<br/>
+🔹 Boas práticas com HTML e CSS<br/>
+🔹 Desenvolvimento de páginas web responsivas<br/>
 
 
-💡 Projetos em andamento :
-🔸 Exercícios de lógica resolvidos em C
-🔸 Páginas web simples com HTML5 e CSS3
-🔸 Estudos sobre semântica HTML e design responsivo
+💡 Projetos em andamento :<br/>
+🔸 Exercícios de lógica resolvidos em C<br/>
+🔸 Páginas web simples com HTML5 e CSS3<br/>
+🔸 Estudos sobre semântica HTML e design responsivo<br/>
 
-🤝 Estou em busca de colaborar com :
-🔹 Projetos de sites estáticos ou páginas pessoais
-🔹 Aplicações simples que envolvam lógica e front-end
-🔹 Iniciativas voltadas para quem está começando na programação
+🤝 Estou em busca de colaborar com :<br/>
+🔹 Projetos de sites estáticos ou páginas pessoais<br/>
+🔹 Aplicações simples que envolvam lógica e front-end<br/>
+🔹 Iniciativas voltadas para quem está começando na programação<br/>
 
-📫 Como me encontrar :
+📫 Como me encontrar :<br/>
 💻 GitHub: <a href="https://github.com/FabioWR">Github</a><br/>
 📧 E-mail: fabioroncoletta726@gmail.com<br>
 💼 Linkedin: <a href="https://www.linkedin.com/in/fabio-roncoletta-082b62273/">Linkedin</a>
